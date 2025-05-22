@@ -1,7 +1,0 @@
-[
-  {
-    "numchap": 1,
-    "name": "Công Pháp",
-    "content": "Công pháp: Thiên Gai, Thần Gai"
-  }
-]
